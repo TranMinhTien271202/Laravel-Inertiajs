@@ -1,7 +1,8 @@
 <script setup>
+import ClientLayout from '../Layouts/ClientLayout.vue';
 </script>
 <template>
-    <h1 class="font-[1100] text-[red]">
-        Hello world!
-    </h1>
+    <ClientLayout>
+        <div>dasdasdasd</div>
+    </ClientLayout>
 </template>
